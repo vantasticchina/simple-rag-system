@@ -1,0 +1,6 @@
+langchain==0.0.354
+langchain-community==0.0.38
+faiss-cpu==1.9.0.post1
+requests==2.31.0
+sentence-transformers>=2.2.0
+torch>=1.13.0
